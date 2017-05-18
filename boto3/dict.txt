@@ -1,0 +1,1 @@
+{'Topics':[{'testtop':'arn:aws:sns:us-west-2:776163741065:testtop'},{'intern':'arn:aws:sns:us-west-2:776163741065:intern'},],'NextToken':'string'}
